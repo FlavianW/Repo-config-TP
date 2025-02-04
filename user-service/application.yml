@@ -16,3 +16,7 @@ eureka.client.fetch-registry=true
 spring.kafka.consumer.group-id=group_id
 spring.kafka.bootstrap-servers=localhost:9092
 spring.kafka.consumer.auto-offset-reset=earliest
+
+springdoc.api-docs.enabled=true
+springdoc.swagger-ui.enabled=true
+springdoc.swagger-ui.path=/swagger-ui.html
