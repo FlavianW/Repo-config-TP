@@ -5,6 +5,7 @@ spring:
   application:
     name: discovery-server
 
+eureka.instance.hostname=localhost
 
 spring:
   cloud:
